@@ -10,4 +10,5 @@ k8s.gcr.io/heapster-amd64:v1.5.2
 k8s.gcr.io/node-problem-detector:v0.4.1
 k8s.gcr.io/kube-state-metrics:v1.3.1
 k8s.gcr.io/metrics-server-amd64:v0.2.1
+k8s.gcr.io/addon-resizer:1.8.1
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.14.0
