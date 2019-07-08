@@ -12,3 +12,4 @@ k8s.gcr.io/kube-state-metrics:v1.6.0
 k8s.gcr.io/metrics-server-amd64:v0.3.3
 k8s.gcr.io/addon-resizer:1.8.5
 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.1
+k8s.gcr.io/coredns:1.2.6
